@@ -1,6 +1,6 @@
 # docker-swarm-demo
 
-$ docker swarm init
+### $ docker swarm init
 
 $ docker swarm join --token <token>
 
